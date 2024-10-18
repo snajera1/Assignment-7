@@ -1,18 +1,5 @@
-## Getting Started
+## Assignment 7
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+This program is an implementation of several functions used to generate random arrays of a given length, read and write arrays to and from text files,
+and sort arrays through the bubble sort algorithm. The program begins by giving the user the choice to generate a random array and write it to a file,
+get an array from a file and sort it before writing it to another file, or quitting, based on a choice of inputs. It loops until the user decides to quit.
